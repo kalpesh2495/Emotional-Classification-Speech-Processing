@@ -1,6 +1,5 @@
-joblib
-librosa
-numpy
-streamlit
-tensorflow-cpu
-
+joblib==1.4.2
+librosa==0.10.2
+numpy==2.0.0
+streamlit==1.39.0
+tensorflow-cpu==2.16.2
